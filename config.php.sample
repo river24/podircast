@@ -1,0 +1,19 @@
+<?php
+
+  $title = 'podircast';
+  $author = 'river24';
+  $description = 'Directory to Podcast';
+  $image_file = 'image.png';
+  $lang = 'ja';
+  $timezone = 'Asia/Tokyo';
+  $data_dir = 'data';
+  $limit = 10;
+
+  // $item_title_pattern = '/^([\d]{4})([\d]{2})([\d]{2})\.m4a/i';
+  // $item_title_replacement = '${1}年${2}月${3}日';
+
+  // $username = 'user';
+  // $password = 'pass';
+  // $passhash = password_hash('pass', PASSWORD_DEFAULT);
+
+?>
