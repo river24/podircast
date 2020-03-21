@@ -33,7 +33,7 @@
   $base_url = $_SERVER['REQUEST_SCHEME'] . "://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
 
   $items = [];
-  foreach(glob('data/*') as $file){
+  foreach(glob($data_dir . "/*") as $file){
     if(is_file($file)){
       $items[] = $file;
     }
