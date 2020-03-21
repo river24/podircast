@@ -1,6 +1,6 @@
 # podircast
 
-A simple PHP script to serve a podcast feed with audio files under the directory.
+A simple PHP script to serve a podcast feed with audio files in a directory.
 
 ---
 
